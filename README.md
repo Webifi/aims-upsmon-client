@@ -1,5 +1,5 @@
 # aims-upsmon-client
-Arduino / ESP8266 Aims inverter/charger monitoring client
+Arduino / ESP8266 AIMS inverter charger monitoring client
 
 Tested on: [AIMS Power 1250 Watt POWER INVERTER CHARGER - PICOGLF12W12V120AL](https://www.aimscorp.net/1250-watt-low-frequency-pure-sine-inverter-charger-12-vdc-to-120-vac.html)
 
