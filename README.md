@@ -5,8 +5,10 @@ Tested on: [AIMS Power 1250 Watt POWER INVERTER CHARGER - PICOGLF12W12V120AL](ht
 
 used with: [ESP8266 WiFi Kit 8](http://www.heltec.cn/project/wifi-kit-8/?lang=en)
 
+For use with upsmon logging server. (Server code yet to be released.  Build your own if you're in a hurry.)
+
+Connecting: 
 ```
-Connect: 
 Wifi Kit 8 / ESP8266 <---> AIMS Inverter/Charger RJ45 "LCD" port
 --------------------       -------------------------------------  
                      <---> Pin 1 (Not Used) 
